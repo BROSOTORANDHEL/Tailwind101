@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.CSSdaw{
+@apply p-2 bg-[#F5D3C4] rounded-xl 
+
+}
